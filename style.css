@@ -7,7 +7,7 @@ body {
     background-repeat: no-repeat;*/
     /* background-attachment: fixed; */
 
-    background-image: linear-gradient(white,white,white,black);
+    background-image: linear-gradient(rgb(198, 196, 196),rgb(198, 196, 196),rgb(198, 196, 196),black);
 
     #size{
         font-size:30px;
